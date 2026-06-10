@@ -29,12 +29,8 @@ Each subclass implements its own version of the `play()` method.
 ## Installation and Execution
 
 1. Clone the repository:
-```bash
-git clone REPOSITORY_URL
-```
 2. Open the project in IntelliJ IDEA.
 3. Run the Main class.
-4. Check the console output to see polymorphism and class loading behavior.
 
 ## Demo Output
 

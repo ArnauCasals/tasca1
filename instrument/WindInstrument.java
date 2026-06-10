@@ -1,6 +1,6 @@
-package tasca1;
+package tasca1.instrument;
 
-public class WindInstrument extends Instrument{
+public class WindInstrument extends Instrument {
     public WindInstrument(String name, double price){
         super(name, price);
     }

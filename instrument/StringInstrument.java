@@ -1,4 +1,4 @@
-package tasca1;
+package tasca1.instrument;
 
 public class StringInstrument extends Instrument {
 

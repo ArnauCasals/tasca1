@@ -1,4 +1,4 @@
-package tasca1;
+package tasca1.instrument;
 
 public abstract class Instrument {
 

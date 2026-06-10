@@ -1,4 +1,5 @@
-package tasca1;
+package tasca1.instrument;
+
 public class Main {
 
     public static void main(String[] args) {
